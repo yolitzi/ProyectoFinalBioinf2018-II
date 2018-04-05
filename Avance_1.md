@@ -8,7 +8,7 @@ Llevaré a cabo el ensamblado del metiloma de la gónada de varios peces de la e
 
 ## b) Exáctamente qué datos utilizarás en caso de que no sean datos propios.
 Los datos que voy a utilizar provienen del artículo:
-Shao, C., *et al.* (2014). Epigenetic modification and inheritance in sexual reversal of fish. Genome research, 24(4), 604-615. El link de éste artículo es [éste.](https://genome.cshlp.org/content/24/4/604.full.pdf+html) 
+Shao, C., *et al.* (2014). Epigenetic modification and inheritance in sexual reversal of fish. Genome research, 24(4), 604-615. El link de este artículo es [éste.](https://genome.cshlp.org/content/24/4/604.full.pdf+html) 
 La información y los datos de los experimentos y de la secuenciación con bisulfito se encuentran en un repositorio de la NCBI conocido como Gene Expression Omnibus (**GEO**),  cuyo número de acceso es [GSE41129](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE41129), y en el Sequence Read Archive (**SRA**), con el número de acceso [SRP015880](https://www.ncbi.nlm.nih.gov/sra?term=SRP015880). 
 
 ### **NOTA:**
